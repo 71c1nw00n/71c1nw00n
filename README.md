@@ -1,5 +1,5 @@
-# Chaewoon Ki
-<img src="https://img.shields.io/badge/befilledwith@kaist.ac.kr-005FF9?style=flat-square&logo=maildotru&logoColor=white"/>
+# Chaewoon Ki (기채운)
+<img src="https://img.shields.io/badge/befilledwith@kaist.ac.kr-005FF9?style=flat-square&logo=maildotru&logoColor=white"/> <img src="https://img.shields.io/badge/cwkhee03@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
 
 🛠️ Stacks
@@ -20,21 +20,4 @@
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@baeyuna97)](https://velog.io/@baeyuna97)
 
 
-🏅 Algorithm Gold Level. 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna1do)](https://solved.ac/yuna1do/)  
-Programmers - Lv3  
-Samsung SW *Pro Level*
-
-
-🏆 Awards
-|Competition|Prize|Date|
-|------|---|---|
-|Microsoft News Recommendation|World 2nd Prize|Oct 21, 2020|
-|Kaggle Man/Female Predict Competition|1st|Jan 25, 2019|
-
-
-
-
-There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
-Please understand.
