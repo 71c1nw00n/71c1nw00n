@@ -1,4 +1,4 @@
-### Chaewoon Ki
+# Chaewoon Ki
 <img src="https://img.shields.io/badge/befilledwith@kaist.ac.kr-005FF9?style=flat-square&logo=maildotru&logoColor=white"/>
 
 
