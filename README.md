@@ -1,8 +1,5 @@
 ### Chaewoon Ki
-
-#### AI Researcher / Data Engineering
-Developers who create beneficial social values   
-A developer who thinks, researches, creates, and connects to practical realization by web
+<img src="https://img.shields.io/badge/befilledwith@kaist.ac.kr-005FF9?style=flat-square&logo=maildotru&logoColor=white"/>
 
 
 🛠️ Stacks
