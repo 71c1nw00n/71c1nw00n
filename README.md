@@ -5,5 +5,5 @@ I'm a senior CS student at KAIST (graduation expected August 2026) with a minor 
 
 My research interests are LLM Reasoning, Agentic AI, LLM Applications.
 
-For more information, please visit [71c1nw00n.github.io](https://71c1nw00n.github.io)
+For more information, please visit [kichaewoon.github.io](https://kichaewoon.github.io)
 
